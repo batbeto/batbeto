@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batbeto" alt="batbeto" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Angular**
-
-- 📫 How to reach me **adalberto@objetorelacional.com.br**
+- 💬 Ask me about **TypeScript**
 
 
 <h3 align="left">Languages and Tools:</h3>
